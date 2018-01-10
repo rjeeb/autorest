@@ -1,4 +1,4 @@
-# AutoREST for GWT 
+# AutoREST with gwt-jackson-apt support 
 
 This is a fork from [autorest](https://github.com/intendia-oss/autorest) for adding [gwt-jackson-apt](https://github.com/vegegoku/gwt-jackson-apt) support.
 
